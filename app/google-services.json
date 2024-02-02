@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280360540463",
+    "project_id": "highndry-3cbbe",
+    "storage_bucket": "highndry-3cbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280360540463:android:05c758053cda2ca28c69da",
+        "android_client_info": {
+          "package_name": "com.project.laundryappui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280360540463-fjch9i7cp541ilsbn8sv0krtq68vljpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk94u8gfqfhHWR06RyKwGvUJViS9ty89M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280360540463-fjch9i7cp541ilsbn8sv0krtq68vljpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
